@@ -138,3 +138,9 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+gan-mnist/data/MNIST/raw/
+
+batch-norm/data/MNIST/raw/
+
+*.zip
