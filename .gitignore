@@ -144,3 +144,17 @@ gan-mnist/data/MNIST/raw/
 batch-norm/data/MNIST/raw/
 
 *.zip
+
+cycle-gan/summer2winter-yosemite/__MACOSX/summer2winter_yosemite/
+
+cycle-gan/summer2winter-yosemite/__MACOSX/._summer2winter_yosemite
+
+*.jpg
+
+cycle-gan/summer2winter_yosemite/test_summer/
+
+cycle-gan/summer2winter_yosemite/test_winter/
+
+cycle-gan/summer2winter_yosemite/summer/.DS_Store
+
+cycle-gan/summer2winter_yosemite/
